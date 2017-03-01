@@ -1,7 +1,5 @@
 ## **Team Progress Report**
 
-Put your name and the submission date at the top.
-
 #### **Date Submitted:**
 
 Put your name and the submission date at the top.
