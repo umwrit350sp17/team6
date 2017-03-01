@@ -1,10 +1,10 @@
 #### **Broad Team Goals:**
-1. goal
+1. Successfully collaborate with team members to develop a professional document.
 2. goal
 3. goal  
 
 #### **Measurable Team Goals:**
-1. goal
+1. Meet all deadlines. 
 2. goal
 3. goal  
 
