@@ -10,9 +10,9 @@
 
 #### **Personal Goals:**
 * Alix:
-1. goal 1
-2. goal 2
-3. goal 3
+    1. goal 1
+    2. goal 2
+    3. goal 3
 * Marcianne:
 * Maia:  
 
@@ -22,9 +22,9 @@
 * Maia:  
 #### **Important Information about Team Members:**
 * Alix:
-1. committments
-2. committments
-3. committments
+    1. committments
+    2. committments
+    3. committments
 * Marcianne:
 * Maia:  
 
