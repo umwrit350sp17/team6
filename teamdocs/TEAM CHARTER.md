@@ -4,7 +4,7 @@
 3. goal  
 
 #### **Measurable Team Goals:**
-1. goal
+1. Meet all deadlines??? <--- what do you think??? 
 2. goal
 3. goal  
 
