@@ -12,7 +12,7 @@
 * Alix:
    1. Throughout the course of the project, I would like to have a productive and friendly team environment and experience.
    2. I would like my contribution to the project to be considered equal and fair, ensuring that everyone's voice is heard and understood. 
-   3. Also, I would like to improve my markdown skills, as well as my technical writing skills. 
+   3. Also, I would like to improve my markdown writing skills, as well as my technical writing skills. 
 * Marcianne:
    1. goal
    2. goal
