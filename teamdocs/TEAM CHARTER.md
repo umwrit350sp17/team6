@@ -1,5 +1,5 @@
 #### **Broad Team Goals:**
-1. goal
+1. Successfully collaborate with team members to develop a professional document???? <--- what do you think Marcianne?
 2. goal
 3. goal  
 
