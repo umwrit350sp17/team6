@@ -1,7 +1,7 @@
 #### **Broad Team Goals:**
 1. Successfully collaborate with team members to develop a professional document.
-2. Developing a set of instructions that a first-year university student can follow without mistakes. 
-3. Presenting our material clearly and precisely. 
+2. Develop a set of instructions that a first-year university student can follow without mistakes. 
+3. Present our material clearly and precisely. 
 
 #### **Measurable Team Goals:**
 1. Meet all deadlines. 
