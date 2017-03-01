@@ -3,7 +3,7 @@
 2. goal
 3. goal  
 
-#### **Specific (Measurable) Team Goals:**
+#### **Measurable Team Goals:**
 1. goal
 2. goal
 3. goal  
@@ -21,7 +21,7 @@
 * Marcianne:
 * Maia:
 
-#### **Important Information about Team Members:**
+#### **Other Concerns:**
 * Alix:
    1. committments
    2. committments
@@ -29,8 +29,8 @@
 * Marcianne:
 * Maia:  
 
-####  _Statement of how team will resolve impasses:_ consensus, majority rules, instructor decides, or third party decides  
+####  _Conflict Resolution:_ consensus, majority rules, instructor decides, or third party decides  
 
-#### _Statement of how team will handle missed deadlines:_ page 6 of reading: project manager says nothing, project manager decides, or team decides  
+#### _Missed Deadlines:_ page 6 of reading: project manager says nothing, project manager decides, or team decides  
 
-#### _Statement of what constitutes unacceptable work and how the team will handle this:_ page 6 of reading: project manager says nothing, project manager decides, or team decides
+#### _Unacceptable Work:_ page 6 of reading: project manager says nothing, project manager decides, or team decides
