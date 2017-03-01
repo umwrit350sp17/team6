@@ -18,8 +18,8 @@
 
 #### **Individual Commitment:**
 * **Alix:** As decided by Marcianne and myself, I plan to serve as team leader for this project. Additionally, I plan to make an equal contribution with 100 percent effort, and only put more effort forth as needed to ensure a satisfactory grade. 
-* Marcianne:
-* Maia:
+* **Marcianne:**
+* **Maia:**
 
 #### **Other Concerns:**
 * Alix:
