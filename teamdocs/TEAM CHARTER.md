@@ -19,12 +19,13 @@
 #### **Individual Committment:**
 * Alix:
 * Marcianne:
-* Maia:  
+* Maia:
+
 #### **Important Information about Team Members:**
 * Alix:
-    1. committments
-    2. committments
-    3. committments
+   1. committments
+   2. committments
+   3. committments
 * Marcianne:
 * Maia:  
 
