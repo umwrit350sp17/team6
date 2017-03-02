@@ -1,3 +1,5 @@
+## Team Charter
+
 #### **Broad Team Goals:**
 1. Successfully collaborate with team members to develop a professional document.
 2. Develop a set of instructions that a first-year university student can follow without mistakes. 
