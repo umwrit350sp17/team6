@@ -18,7 +18,9 @@
 * Marcianne:
    1. I'd like for the group work and environment to be equally divided, constructive, and friendly as possibly. 
    2. Additionally, I would like to improve my technical writing skills. 
-* Maia:  
+* Maia: 
+   1.
+   2.
 
 #### **Individual Commitment:**
 * **Alix:** As decided by Marcianne and myself, I plan to serve as team leader for this project. Additionally, I plan to make an equal contribution with 100 percent effort, and only put more effort forth as needed to ensure a satisfactory grade. 
@@ -34,7 +36,9 @@
    1. I also work at the Writing Center Monday-Thursday and have class Tuesday and Thursday so my schedule is limited as well.
    2. My weeks both this first week and the week before spring break end on thursdays due to mandatory commitments that I have to be out of town for by Friday.
    3. I prefer to know by the beginning of the week about assignments and do not have any experience with GitHub but am prepared to learn and work on these assignments to the best of my capabilities. 
-* Maia:   
+* Maia: 
+   1.
+   2.
 
 #### _Conflict Resolution:_ 
 
