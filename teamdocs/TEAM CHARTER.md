@@ -19,14 +19,14 @@
    1. I'd like for the group work and environment to be equally divided, constructive, and friendly as possibly. 
    2. Additionally, I would like to improve my technical writing skills. 
 * Maia: 
-   1. In the duration of this project, I would like to play an active and effective role towards the group. Now that I have downloaded the apps for slack and github, I will be able to quickly access this material.
-   2. I would like to be able to communicate effectively with my group members, so that we will do well on this project.
-   3. In this project, I would alo just like to further improve my wriitng and technical skills.
+   1. In the duration of this project, I would like to play an active and effective role towards the group. Now that I have downloaded the apps for Slack and GitHub, I will be able to quickly access this material.
+   2. I would like to be able to communicate effectively with my group members; so, that we will do well on this project.
+   3. In this project, I would also just like to further improve my wriitng and technical skills.
 
 #### **Individual Commitment:**
 * **Alix:** As decided by Marcianne and myself, I plan to serve as team leader for this project. Additionally, I plan to make an equal contribution with 100 percent effort, and only put more effort forth as needed to ensure a satisfactory grade. 
 * **Marcianne:** I'm willing to put my best effort into this project and do whatever is asked of me. Despite my timing restrictions, I'm willing to work around those to the best of my abilities for the sake of obtaining a satisfactory grade and being fair to my group. 
-* **Maia:** I will put 100 percent effort into this project and do my part as a team member. Whatever I need to do to performas well as I can and also to help the group do as well as we can, I will do. 
+* **Maia:** I will put 100 percent effort into this project and do my part as a team member. Whatever I need to do to perform as well as I can and also to help the group do as well as we can, I will do. 
 
 #### **Other Concerns:**
 * Alix:
@@ -38,8 +38,8 @@
    2. My weeks both this first week and the week before spring break end on thursdays due to mandatory commitments that I have to be out of town for by Friday.
    3. I prefer to know by the beginning of the week about assignments and do not have any experience with GitHub but am prepared to learn and work on these assignments to the best of my capabilities. 
 * Maia: 
-   1. I have never used Slack or Github, and I had trouble at first with figuring it out. However I was able to understand how to operate it, and hopefully there will not be any more issues with these sites.
-   2. Like every other college student, I have a busy schedule throughout the week. However I will be easy to contact now that I have the apps, and wil make sure to check the groups frequently. 
+   1. I have never used Slack or GitHub, and I had trouble at first with figuring it out. However, I was able to understand how to operate it, and hopefully, there will not be any more issues with these sites.
+   2. Like every other college student, I have a busy schedule throughout the week. However, I will be easy to contact now that I have the apps, and I will make sure to check the groups frequently. 
 
 #### _Conflict Resolution:_ 
 
