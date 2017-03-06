@@ -21,7 +21,7 @@ No schedule changes.
 
 #### **Group Problems:**
 
-So far, our group is experiencing minimal problems. It is still early on in the project, but one of our group members responded late to our chat about the project and thus, has made zero contributions. If this changes, no action is needed. However, if nothing changes, a discussion with the instructor may be warranted about this member's participation.  
+So far, our group is experiencing minimal problems; mostly related to understanding our messaging platform, Slack, and understanding/operating/navigating GitHub.   
 
 #### **Late Status Reports:**
 
