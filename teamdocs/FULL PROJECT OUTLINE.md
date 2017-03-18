@@ -1,6 +1,6 @@
-# Sample Team: Document Outline 
+# Team 6: Document Outline 
 
-This file contains the analysis of the audience for the document as well as the general outline of the project. 
+This GitHub file includes an analysis of our audience for the proposed document and a general outline of our project. 
 
 ## Audience Profile
 
