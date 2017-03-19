@@ -12,16 +12,16 @@ Andy Dwyer, who plans to attend The University of Mississippi in the Fall of 201
 * As for our use of multimedia content, it may be necessary to show screenshots of the program to supplement our intstructions; however, that has not completely been determined and set upon yet, and we will readdress the use of multimedia as we continue developing our document. 
 * At this moment, there are no external sources or links that we need to include, but it is possible that we will use information from the ClassScheduler's project website, if necessary: [ClassScheduler Resource](https://sourceforge.net/projects/personalclassscheduler/?source=typ_redirect)
 * Our general outline is as follows:  
-  1. Introduction of the Document
-   * text 
-   * text 
-   * text 
-  2. The order we will present our instructions 
-   * text
-   * text 
-  3. How many steps/units of the process
-   * text
-   * text
-  4. Which demonstration examples will be used. 
-   * text
-   * text
+    1. Introduction of the Document
+        * text 
+        * text 
+        * text 
+    2. The order we will present our instructions 
+        * text
+        * text 
+    3. How many steps/units of the process
+        * text
+        * text
+    4. Which demonstration examples will be used. 
+        * text
+        * text
