@@ -13,6 +13,8 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
 * At this moment, there are no external sources or links that we need to include, but it is possible that we will use information from the ClassScheduler's project website, if necessary: [ClassScheduler Resource](https://sourceforge.net/projects/personalclassscheduler/?source=typ_redirect)
 * Our general outline is as follows: 
 
+**_Title_**: Using ClassScheduler to Make a Personal Schedule
+
     1. **_Introduction of the Document_**
         * text 
         * text 
