@@ -11,7 +11,8 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
 * For this document, it seems best fit to break our material into folders and use shorter, more numerous files rather than one longer file. 
 * As for our use of multimedia content, it may be necessary to show screenshots of the program to supplement our intstructions; however, that has not completely been determined and set upon yet, and we will readdress the use of multimedia as we continue developing our document. 
 * At this moment, there are no external sources or links that we need to include, but it is possible that we will use information from the ClassScheduler's project website, if necessary: [ClassScheduler Resource](https://sourceforge.net/projects/personalclassscheduler/?source=typ_redirect)
-* Our general outline is as follows:  
+* Our general outline is as follows: 
+
     1. **_Introduction of the Document_**
         * text 
         * text 
