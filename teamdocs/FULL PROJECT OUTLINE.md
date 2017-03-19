@@ -8,9 +8,9 @@ Andy Dwyer, who plans to attend The University of Mississippi in the Fall of 201
 
 ## Project Outline
 
-* For this document, it seems best fit to break our material into folders with shorter, more numerous files. 
-* Specify use of multimedia content (screenshots, videos, other images)
-* Specify preliminary external links and sources that you may want to include
+* For this document, it seems best fit to break our material into folders and use shorter, more numerous files rather than one longer file. 
+* As for our use of multimedia content, it may be necessary to show screenshots of the program to supplement our intstructions; however, that has not completely been determined and set upon yet, and we will readdress the use of multimedia as we continue developing our document. 
+* At this moment, there are no external sources or links that we need to include, but it is possible that we will use information from the ClassScheduler's project website, if necessary: [ClassScheduler Resource] (https://sourceforge.net/projects/personalclassscheduler/?source=typ_redirect)
 * Provide general outline of the content, including 
   * How the document will be introduced
   * The order of presentation of the instructions
