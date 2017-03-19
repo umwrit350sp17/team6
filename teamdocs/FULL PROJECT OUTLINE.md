@@ -16,9 +16,9 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
 **_Title:_** Using ClassScheduler to Make a Personal Schedule
  
  1. **_Introduction of the Document_**
-        * page 411 for reference
+    * page 411 for reference
  2. **_Step by Step Instructions_**
-        * Our instructions will follow the sequence in which information is presented on ClassScheduler, and instructions for each section will be developed:
+    * Our instructions will follow the sequence in which information is presented on ClassScheduler, and instructions for each section will be developed:
             * Schools
             * Sessions
             * Personal Times
@@ -28,10 +28,10 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
             * Find Feasible Schedules
        * In total, we should include _no less than_ 7 instructional steps. 
 3. **_Demonstration Examples_**
-        * text
-        * text
-        * text
+    * text
+    * text
+    * text
 4. **_Conclusion_**
-        * text
-        * text
-        * text
+    * text
+    * text
+    * text
