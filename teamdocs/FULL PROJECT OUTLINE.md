@@ -16,7 +16,8 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
 **_Title:_** Using ClassScheduler to Make a Personal Schedule
  
  1. **_Introduction of the Document_**
-    * To hook our audience into reading our instructions, we need to use our introduction to convey the benefit of using such a program in college, such as explaining the importance of time management in college classes or maybe even, using our experience as college students to obtain credibility with these incoming students. Before doing so, however, we need to specifically state who should be carrying out the task outlined in our document and what resources they will need to carry out our task. 
+    * To hook our audience into reading our instructions, we need to use our introduction to convey the benefit of using such a program in college, such as explaining the importance of time management in college classes or maybe even, using our experience as college students to obtain credibility with these incoming students. 
+    * Before doing so, however, we need to specifically state who should be carrying out the task outlined in our document and what resources they will need to carry out our task. 
  2. **_Step by Step Instructions_**
     * Our instructions will follow the sequence in which information is presented on ClassScheduler, and instructions for each section will be developed:
          * Schools
@@ -29,4 +30,5 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
     * In total, we should include _no less than_ 7 instructional steps. 
     * If we use multimedia content for demonstration examples, we would include a screenshot of ClassScheduler's main program page, and it would be included on a "main page" that we develop... possibly the introduction file? If we needed to include screenshots of certain sections, they would be placed on corresponding section files.  
 3. **_Conclusion_**
-    * To conclude our document, we need to ensure that the reader has somehow completed the task correctly. We could do this by using a screenshot of a sample schedule made through ClassScheduler. Then, we can explain each element that the student should see on their own schedule. It would be ideal to include a troubleshooting section to the conclusion of our document, but we are unsure that we know enough information about the program to troubleshoot, or know where to find such information, and unsure that we are as  technologically savvy as we need to be to make such a section to our document. 
+    * To conclude our document, we need to ensure that the reader has somehow completed the task correctly. We could do this by using a screenshot of a sample schedule made through ClassScheduler. Then, we can explain each element that the student should see on their own schedule. 
+    * It would be ideal to include a troubleshooting section to the conclusion of our document, but we are unsure that we know enough information about the program to troubleshoot, or know where to find such information, and unsure that we are as  technologically savvy as we need to be to make such a section to our document. 
