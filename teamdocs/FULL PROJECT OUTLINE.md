@@ -16,18 +16,18 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
 **_Title_**: Using ClassScheduler to Make a Personal Schedule
 
     1. **_Introduction of the Document_**
+        * page 411 for reference
         * text 
         * text 
-        * text 
-    2. **_Order of Presentation_**
+    2. **_Step by Step Instructions_**
         * text
         * text 
         * text
-    3. **_Overall Instruction Steps_**
+    3. **_Demonstration Examples_**
         * text
         * text
         * text
-    4. **_Demonstration Examples_**
+    4. **_Conclusion_**
         * text
         * text
         * text
