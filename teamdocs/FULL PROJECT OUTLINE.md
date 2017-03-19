@@ -17,7 +17,7 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
  
  1. **_Introduction of the Document_**
         * page 411 for reference
-    2. **_Step by Step Instructions_**
+ 2. **_Step by Step Instructions_**
         * Our instructions will follow the sequence in which information is presented on ClassScheduler, and instructions for each section will be developed:
             * Schools
             * Sessions
@@ -27,11 +27,11 @@ Andy Dwyer, who plans to attend the University of Texas at Arlington in the Fall
             * My Courses
             * Find Feasible Schedules
        * In total, we should include _no less than_ 7 instructional steps. 
-    3. **_Demonstration Examples_**
+3. **_Demonstration Examples_**
         * text
         * text
         * text
-    4. **_Conclusion_**
+4. **_Conclusion_**
         * text
         * text
         * text
