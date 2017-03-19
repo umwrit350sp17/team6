@@ -16,12 +16,15 @@ Andy Dwyer, who plans to attend The University of Mississippi in the Fall of 201
         * text 
         * text 
         * text 
-    2. The order we will present our instructions 
+    2. Order of Presentation
         * text
         * text 
-    3. How many steps/units of the process
+        * text
+    3. Overall Instruction Steps
         * text
         * text
-    4. Which demonstration examples will be used. 
+        * text
+    4. Demonstration Examples 
+        * text
         * text
         * text
