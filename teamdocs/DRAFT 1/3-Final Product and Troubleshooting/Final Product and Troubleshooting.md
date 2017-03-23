@@ -1,6 +1,6 @@
 ![Final Schedule](assets/7.png)
 
-# Final Production and Troubleshooting Frequently Asked Questions
+## Final Product and Troubleshooting Frequently Asked Questions
  
 Once you have completed all of the steps provided, your final schedule should look **similar** to this, varying based on the personal time you added and the courses you have selected. However, we know that with most technology... there are going to be some technical issues that arise; no matter how hard we try to prevent them. So, we have developed a common "troubleshooting" page for you to refer to when you experience a technical issue.
 
