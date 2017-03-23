@@ -1,1 +1,1 @@
-![Be sure to give the picture an alt text](assets/1.png)
+![First Page of ClassScheduler](assets/1.png)
