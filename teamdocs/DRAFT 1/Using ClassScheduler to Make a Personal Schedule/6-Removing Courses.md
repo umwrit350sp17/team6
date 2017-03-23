@@ -1,1 +1,1 @@
-![Removing Courses](assets/6.png)
+![Removing Courses](assets/8.png)
