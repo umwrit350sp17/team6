@@ -7,6 +7,9 @@ Submitted on March 26, 2017 by Alix Moody, Marcianne Nelson, and Maia Brown.
 #### **Team Accomplishments:**
 
 * Developed first full project draft
+  * Marcianne was responsible for the Introduction to ClassScheduler folder.
+  * Maia was responsible for the Using ClassScheduler to Make a Personal Schedule folder.
+  * Alix was responsible for the 
 
 #### **Unfinished Tasks:**
 
