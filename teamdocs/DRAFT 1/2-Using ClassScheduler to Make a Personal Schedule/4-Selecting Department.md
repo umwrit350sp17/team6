@@ -1,4 +1,5 @@
 ![Selecting Department](assets/4.png)
+# Selecting Department
 When you retrieve your fall 2017 schedule, there will be a department next to the course name. For each course, select a department name. 
 1. Locate Department Name for class
 2. Click **Select Department** 
