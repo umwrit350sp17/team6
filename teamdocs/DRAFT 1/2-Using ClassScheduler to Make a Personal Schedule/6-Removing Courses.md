@@ -1,2 +1,4 @@
 ![Removing Courses](assets/8.png)
-Let's face it, we make mistakes! In the case where you add the incorrect course, you would then need to click on the incorrect course and press "Remove from My courses". 
+Let's face it, we all make mistakes! In the case where you add the incorrect course, these simple steps will guide you to remove it. 
+1. Click the **incorrect** course
+2. Select **Remove from My courses**
