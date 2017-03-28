@@ -1,4 +1,4 @@
-# team6
+# Team 6
 
 **Team Members:** Alix Moody, Marcianne Nelson, and Maia Brown
 
