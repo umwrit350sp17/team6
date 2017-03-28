@@ -9,7 +9,7 @@ Submitted on March 26, 2017 by Alix Moody, Marcianne Nelson, and Maia Brown.
 * Developed first full project draft
   * Marcianne was responsible for the Introduction to ClassScheduler folder.
   * Maia was responsible for the Using ClassScheduler to Make a Personal Schedule folder.
-  * Alix was responsible for the Final Product and Troubleshooting folder. 
+  * Alix was responsible for the Final Product and Troubleshooting folder, as well as placing media content in all of the folders. 
 
 #### **Unfinished Tasks:**
 
