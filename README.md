@@ -1,5 +1,8 @@
-# Team 6
+# Using ClassScheduler to Make a Personal Schedule
 
-**Team Members:** Alix Moody, Marcianne Nelson, and Maia Brown
+**Team Members:** 
+1. Alix Moody
+2. Marcianne Nelson
+3. Maia Brown
 
 **Pitch:** Our team proposes to create a set of how-to instructions for the open-source platform, ClassScheduler. 
