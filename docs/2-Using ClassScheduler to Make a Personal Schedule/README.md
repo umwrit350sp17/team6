@@ -1,6 +1,6 @@
-This folder and all of its files serve to explain in detail how to make a personal schedule through the open-source platform, ClassScheduler. There are several images used throughout; for reference, these can be found in the assets file. Additionally, the entire folder is composed in markdown. 
+This folder and **all** of its files serve to explain in detail how to make a _personal schedule_ through the open-source platform, **ClassScheduler.** There are several images used throughout; for reference, these can be found in the **_assets_** file. Additionally, the _entire folder_ is composed in markdown. 
 
-To best understand our instructions, we suggest you access them after you have read the [Introduction to ClassScheduler](1-Introduction%20to%20ClassScheduler) folder and in this order:
+To best understand our instructions, we suggest you access them **_after_** you have **read** the [Introduction to ClassScheduler](1-Introduction%20to%20ClassScheduler) file and in this order:
 1. [Selecting School](1-Selecting%20School.md)
 2. [Selecting Session](2-Selecting%20Session.md)
 3. [Adding Personal Time](https://github.com/umwrit350sp17/team6/blob/master/teamdocs/DRAFT%201/2-Using%20ClassScheduler%20to%20Make%20a%20Personal%20Schedule/3-Adding%20Personal%20Time.md)
