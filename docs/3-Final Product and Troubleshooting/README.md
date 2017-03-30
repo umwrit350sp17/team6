@@ -2,9 +2,9 @@
 
 * For our instructions and user guide to make the most sense, we recommend accessing this page **_after_** you have **read** and **completed** the steps on the [Introduction to ClassScheduler](11-Introduction%20to%20ClassScheduler) page and in the [Using ClassScheduler to Make a Personal Scheduler](2-Using%20ClassScheduler%20to%20Make%20a%20Personal%20Schedule) folder.
 
-![Final Schedule](assets/7.png)
-
 ## Final Product and Troubleshooting FAQ
+
+![Final Schedule](assets/7.png)
  
 Once you have completed all of the steps provided, your final schedule should look **similar** to this, varying based on the personal time you added and the courses you have selected. However, we know that with most technology... there are going to be some technical issues that arise; no matter how hard we try to _prevent_ them. So, we have developed a common "troubleshooting" page for you to refer to when you experience a technical issue.
 
