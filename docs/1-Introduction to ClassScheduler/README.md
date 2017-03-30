@@ -1,6 +1,6 @@
-![First Page of ClassScheduler](assets/1.png)
-
 # What is _ClassScheduler_?
+
+![First Page of ClassScheduler](assets/1.png)
 
 An issue most college students suffer from is **balancing** and **properly managing** time for school, work, sleep, and socialization. Time management is an _imperative_ skill for students to learn while in college; so, that their adult and work lives have a greater chance of staying properly balanced. Fortunately for students at the **University of Texas at Arlington**, the program ClassScheduler is available to all who wish to use it. 
 
