@@ -1,6 +1,6 @@
 This folder serves as a guide for what our viewers should see as a final product when making their schedule. Additionally, we offer common problems that students may face when creating their schedule through this program. 
 
-For our instructions and user guide to make the most sense, we recommend accessing this folder after you have read and completed the steps in the [Introduction to ClassScheduler](1-Introduction%20to%20ClassScheduler) folder and the [Using ClassScheduler to Make a Personal Scheduler](2-Using%20ClassScheduler%20to%20Make%20a%20Personal%20Schedule) folder.
+For our instructions and user guide to make the most sense, we recommend accessing this folder after you have read and completed the steps in the [Introduction to ClassScheduler](1-Introduction%20to%20ClassScheduler/README.md) folder and the [Using ClassScheduler to Make a Personal Scheduler](2-Using%20ClassScheduler%20to%20Make%20a%20Personal%20Schedule) folder.
 
 ![Final Schedule](assets/7.png)
 
