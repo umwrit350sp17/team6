@@ -1,4 +1,4 @@
-## Using ClassScheduler to Make a Personal Schedule: Complete Guide
+## Using ClassScheduler to Make a Personal Schedule: _A Complete Guide_
 
 The folders above were designed and developed to **instruct** first year students at the _University of Texas at Arlington_ how to create their own personal schedule using the open-source platform, _ClassScheduler_. Media content for each file is stored in an **assets** file. Additionally, **_all_** files are composed in markdown. 
 
