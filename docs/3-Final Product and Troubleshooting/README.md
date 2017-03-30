@@ -1,6 +1,6 @@
 ## Before continuing... 
 
-* For our instructions and user guide to make the most sense, we recommend accessing this page **_after_** you have **read** and **completed** the steps on the [Introduction to ClassScheduler](11-Introduction%20to%20ClassScheduler) page and in the [Using ClassScheduler to Make a Personal Scheduler](2-Using%20ClassScheduler%20to%20Make%20a%20Personal%20Schedule) folder.
+* For our instructions and user guide to make the most sense, we recommend accessing this page **_after_** you have **read** and **completed** the steps on the [Introduction to ClassScheduler](https://github.com/umwrit350sp17/team6/tree/master/docs/1-Introduction%20to%20ClassScheduler) page and in the [Using ClassScheduler to Make a Personal Scheduler](2-Using%20ClassScheduler%20to%20Make%20a%20Personal%20Schedule) folder.
 
 * This page serves as a **guide** for what our viewers should see as a final product when making their schedule. Additionally, we offer _common problems_ that students may face when creating their schedule through this program. 
 
