@@ -1,6 +1,6 @@
 # Using ClassScheduler to Make a Personal Schedule
 
-#### **Team Members:** 
+### **Team Members:** 
 1. Alix Moody
 2. Marcianne Nelson
 3. Maia Brown
