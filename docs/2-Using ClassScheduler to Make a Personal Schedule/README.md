@@ -1,3 +1,5 @@
+## Using ClassScheduler to Make a Personal Schedule
+
 This folder and **all** of its files serve to explain in detail how to make a _personal schedule_ through the open-source platform, **ClassScheduler.** There are several images used throughout; for reference, these can be found in the **_assets_** file. Additionally, the _entire folder_ is composed in markdown. 
 
 To best understand our instructions, we suggest you access them **_after_** you have **read** the [Introduction to ClassScheduler](1-Introduction%20to%20ClassScheduler) file and in this order:
