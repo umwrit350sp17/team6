@@ -1,6 +1,6 @@
 # Using ClassScheduler to Make a Personal Schedule
 
-### **Team Members:** 
+### **Contributions:** 
 
 One of the contributors to this document on how to operate ClassScheduler, **Alix Moody**, is a junior at the University of Mississippi. She is majoring in _Communication Sciences and Disorders_ and minoring in _Professional Writing_; her ultimate goal is to work as an audiologist for the **Children's Hospital of Pittsburgh** or for the **Western Pennsylvania School for the Deaf**. 
 
