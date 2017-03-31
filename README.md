@@ -6,7 +6,9 @@ One of the contributors to this document on how to operate ClassScheduler, **Ali
 
 Alix was responsible for developing **all** of the assets and README files, placing media content in appropriate places, and creating the _Final Product and Troubleshooting_ folder. The README files allow for users to navigate between folders _easily_ without misunderstandings; additionally, the assets files allows for the correct placement of images, while the images serve to **supplement** readers throughout the instructions. A major contribution that Alix made to the project was the development of the _Final Product and Troubleshooting_ folder, which allows users to **compare and contrast** their final schedule to a correct schedule. Furthermore, it offers readers a **resource** of common technological issues they may encounter when developing their own personal schedule with _ClassScheduler_. 
 
-Marcianne Nelson
+Another contributor to the document on how to operate the _ClassScheduler_ program is **Marcianne Nelson**. She is a senior at the University of Mississippi and graduating with a degree in _Communicative Sciences and Disorders_ and a minor in _Professional Writing_. Her career goal is to become a speech-language pathologist and work in a school in order to help instill confidence into children on their speech and language skills. 
+
+Marcianne was responsible for writing the **introduction** folder of the document.This folder contains information on the program, how students would find it useful, and it introduces our how-to instructions to the _ClassSchduler_ program. 
 
 Maia Brown
 
