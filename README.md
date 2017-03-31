@@ -8,7 +8,7 @@ Alix was responsible for developing **all** of the assets and README files, plac
 
 Another contributor to the document on how to operate the _ClassScheduler_ program is **Marcianne Nelson**. She is a senior at the University of Mississippi and graduating with a degree in _Communicative Sciences and Disorders_ and a minor in _Professional Writing_. Her career goal is to become a speech-language pathologist and work in a school in order to help instill confidence into children on their speech and language skills. 
 
-Marcianne was responsible for writing the **introduction** folder of the document.This folder contains information on the program, how students would find it useful, and it introduces our how-to instructions to the _ClassSchduler_ program. 
+Marcianne was responsible for writing the _Introduction to ClassScheduler_ folder of the document. This folder contains information on the program, how students would find it useful, and it introduces the how-to instructions to the _ClassSchduler_ program. 
 
 Maia Brown
 
