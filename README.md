@@ -10,9 +10,9 @@ Another contributor to the document on how to operate the _ClassScheduler_ progr
 
 Marcianne was responsible for writing the _Introduction to ClassScheduler_ folder of the document. This folder contains information on the program, how students would find it useful, and it introduces the how-to instructions to the _ClassSchduler_ program. 
 
-Another contributor of this document, how to operate class scheduler, is **Maia Brown**. She is a senior at the University of Mississippi and graduate with a _dietetic/nutrition_ degree and a minor in _Professional Writing_. Her ultimate job is to become a **Neonatal Nurse** at a **Baylor Hospital** in McKinney, TX, while also working in Full-time **ministry** at a local church.
+Another contributor of this document is **Maia Brown**. She is a senior at the University of Mississippi and graduating with a _Nutrition and Dietetics_ degree and a minor in _Professional Writing_. Her dream job is to become a **Neonatal Nurse** at **Baylor Hospital** in McKinney, TX, while also working in full-time **ministry** at a local church.
 
-Maia was responsible for the how to instructions of the  _ClassScheduler_ program. This folder contained the how to instruction on how to properly add items to the scheduler program. These instructions are easy enough to guide anyone through this scheduling program.
+Maia was responsible for the  _Using ClassScheduler to Make a Personal Scheduler_ folder. This folder contains the how-to instruction guide on how to properly add and remove courses and add personal time to the scheduling program. These instructions are easy and clear enough to guide anyone on how to operate ClassScheduler. 
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
